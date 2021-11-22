@@ -1,0 +1,12 @@
+body
+{
+  background-image: url("https://images.alphacoders.com/114/thumb-1920-1145703.jpg");
+  font-size: 45px;
+  margin: 15px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
